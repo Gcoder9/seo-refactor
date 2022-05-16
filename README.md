@@ -10,6 +10,8 @@
 
 
 ## Visuals
-
+![Horiseon](./assets/images/Horiseon-SEO.png)
 
 ## Resources
+- [Live Site](https://gcoder9.github.io/seo-refactor/)
+- [Repository](https://github.com/Gcoder9/seo-refactor)
