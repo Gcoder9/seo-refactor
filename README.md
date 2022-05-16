@@ -6,6 +6,8 @@
 - [Resources](#resources)
 
 ## Description
+All links were made functional. Consolidated and organized the properties and css selectors.
+The css files were commented as well as the html files.
 
 
 
